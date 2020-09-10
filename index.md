@@ -1,7 +1,5 @@
 ## Seeking Science Monthly Newsletter
 
-![Image](src)
-
 ### September Newsletter
 <object data="September_Newsletter.pdf" type="application/pdf" width="700px" height="800px">
     <embed src="September_Newsletter.pdf">
