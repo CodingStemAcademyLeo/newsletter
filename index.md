@@ -7,10 +7,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
 - Bulleted
 - List
 
@@ -18,16 +14,14 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
+![Image](src)
 
 <object data="September_Newsletter.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="September_Newsletter.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="September_Newsletter.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+```
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
